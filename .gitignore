@@ -5,3 +5,5 @@ obj/
 Properties/
 .vs/
 *.gitignore
+*.user
+*.config
